@@ -4,6 +4,6 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 
   function updateDom(){
-    let para=document.getElementById('text').innerHTML="This is really cool!"
+   document.getElementById('text').innerHTML="This is really cool!"
 
   }
