@@ -1,6 +1,6 @@
 # Loading JavaScript on Document Load
 
-## Learning Goals
+## Learning Goals 
 
 - Understand why `DOMContentLoaded` is important
 - Set up an event on `DOMContentLoaded`
